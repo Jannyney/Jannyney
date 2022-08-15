@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a sophomore majoring in Computer Engineering. Enjoy coding, listening to music and exploring something new. 
+I'm a sophomore majoring in Computer Engineering. Enjoy coding, listening to music and exploring new things. 
 
 
 # 💻 Tech Stack:
